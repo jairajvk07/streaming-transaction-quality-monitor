@@ -1,0 +1,6 @@
+{"transaction_id":"T01","event_time":"2026-01-01T12:00:00Z","amount":42.5,"currency":"USD"}
+{"transaction_id":"T01","event_time":"2026-01-01T12:00:00Z","amount":42.5,"currency":"USD"}
+{"transaction_id":"T02","event_time":"2026-01-01T12:01:00Z","amount":-4,"currency":"USD"}
+{"transaction_id":"T03","event_time":"2026-01-01T12:20:00Z","amount":90,"currency":"USD"}
+{"transaction_id":"T04","event_time":"2026-01-01T11:00:00Z","amount":12,"currency":"USD"}
+{"transaction_id":"T05","event_time":"2026-01-01T12:21:00Z","amount":20,"currency":"USD"}

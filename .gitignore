@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+output/
+spark-warehouse/
+.pytest_cache/
+*.zip
